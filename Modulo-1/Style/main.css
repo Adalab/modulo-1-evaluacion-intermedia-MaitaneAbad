@@ -60,15 +60,15 @@
   .menu {
     display: flex;
     align-items: center;
-    font-size: 16px;
+    font-size: 1rem;
     transform: translatey(50%);
-    height: 30px;
+    height: 1.875rem;
   }
   .cuerpo {
     font-family: "Rubik", sans-serif;
     background-color: #3cdbc0;
     color: #ffffff;
-    font-size: 40px;
+    font-size: 2.5rem;
     display: flex;
     justify-content: center;
     height: 100vh;
