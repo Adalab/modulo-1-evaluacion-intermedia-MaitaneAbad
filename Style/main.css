@@ -13,6 +13,9 @@
   padding: 20px 30px 30px;
 }
 
+.container {
+  display: inline;
+}
 .menu {
   padding-top: 10px;
 }
